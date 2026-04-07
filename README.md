@@ -49,7 +49,7 @@
 
     Setup:
    
-    Clone the repo: git clone https://github.com/ziyad-khaled/MNT-Halan-Data-Migration-Pipeline-Denormalization-to-3NF
+    Clone the repo: git clone https://github.com/ziyad-khaled/Data-Migration-Pipeline-Denormalization-to-3NF
 
     Install dependencies: pip install -r requirements.txt
 

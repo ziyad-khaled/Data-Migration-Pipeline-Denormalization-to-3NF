@@ -1,4 +1,4 @@
-# MNT-Halan-Data-Migration-Pipeline-Denormalization-to-3NF
+# Data-Migration-Pipeline-Denormalization-to-3NF
 
 1. Project Overview
 
